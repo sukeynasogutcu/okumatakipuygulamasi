@@ -1,7 +1,7 @@
 # Okuma Takip (Reading Tracker)
 Kişisel kitap okuma alışkanlıklarınızı yönetmek, hedeflerinizi takip etmek ve okuma istatistiklerinizi görselleştirmek için tasarlanmış modern bir Flutter mobil uygulama arayüzü.
 
-#Özellikler
+# Özellikler
 Uygulama şu anda aşağıdaki işlevsellikleri ve bölümleri içermektedir:
 Bölüm 1: İlerleme Takibi
 Günün Kitabı: Şu an okuduğunuz kitabın detaylarını ve %67 gibi görsel bir ilerleme çubuğunu görüntüler.
