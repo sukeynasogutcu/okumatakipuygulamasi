@@ -26,6 +26,6 @@ Ekran Görüntüsü Tasarımı
 Uygulama, derin bordo (#2E0707) ve koyu gri (#121318) tonlarında Dark Mode odaklı, modern ve göz yormayan bir tasarım diline sahiptir.
  
 # Gelecek Planları
-[ ] SQLite veya Firebase entegrasyonu ile verileri kalıcı hale getirmek.
-[ ] Kitaplar için arama ve filtreleme özelliği.
-[ ] Okuma hatırlatıcıları için yerel bildirimler (Local Notifications).
+-SQLite veya Firebase entegrasyonu ile verileri kalıcı hale getirmek.
+-Kitaplar için arama ve filtreleme özelliği.
+-Okuma hatırlatıcıları için yerel bildirimler (Local Notifications).
